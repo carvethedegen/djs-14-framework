@@ -1,0 +1,32 @@
+{
+  "name": "djs-14-framework",
+  "version": "1.0.0",
+  "description": "A framework to build discord bots on the most recent DJS version.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carvethedegen/djs-14-framework.git"
+  },
+  "keywords": [
+    "discordbot",
+    "discord",
+    "djs",
+    "framework"
+  ],
+  "author": "carvethedegen",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/carvethedegen/djs-14-framework/issues"
+  },
+  "homepage": "https://github.com/carvethedegen/djs-14-framework#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "mongoose": "^6.10.0",
+    "path": "^0.12.7"
+  }
+}
