@@ -66,7 +66,7 @@ Distributed under the Apache-2.0 License. See `LICENSE.txt` for more information
 
 ## Contact
 
-Your Name - [@carvethedegen](https://twitter.com/carvethedegen)
+Carve aka Felon - [@carvethedegen](https://twitter.com/carvethedegen)
 
 Project Link: [https://github.com/carvethedegen/djs-14-framework](https://github.com/carvethedegen/djs-14-framework)
 
